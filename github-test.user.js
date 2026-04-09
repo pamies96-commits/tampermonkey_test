@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GitHub Tampermonkey Test Script
 // @namespace    http://tampermonkey.net/
-// @version      1.0.2
+// @version      1.0.3
 // @description  A test script to demonstrate GitHub hosting for Tampermonkey scripts
 // @author       Your Name
 // @match        https://www.github.com/*
@@ -21,7 +21,7 @@
     const CONFIG = {
         bannerColor: '#28a745',
         bannerTextColor: '#ffffff',
-        version: '1.0.2'
+        version: '1.0.3'
     };
 
     // Create a banner at the top of GitHub pages
