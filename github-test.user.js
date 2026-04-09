@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GitHub Tampermonkey Test Script
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.0.1
 // @description  A test script to demonstrate GitHub hosting for Tampermonkey scripts
 // @author       Your Name
 // @match        https://www.github.com/*
