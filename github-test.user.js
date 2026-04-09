@@ -21,7 +21,7 @@
     const CONFIG = {
         bannerColor: '#28a745',
         bannerTextColor: '#ffffff',
-        version: '1.0.0'
+        version: '1.0.1'
     };
 
     // Create a banner at the top of GitHub pages
