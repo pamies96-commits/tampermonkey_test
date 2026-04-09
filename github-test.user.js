@@ -8,10 +8,10 @@
 // @match        https://github.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=github.com
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/github-test.user.js
-// @downloadURL  https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/github-test.user.js
-// @homepageURL  https://github.com/YOUR_USERNAME/YOUR_REPO
-// @supportURL   https://github.com/YOUR_USERNAME/YOUR_REPO/issues
+// @updateURL    https://raw.githubusercontent.com/pamies96-commits/tampermonkey_test/main/github-test.user.js
+// @downloadURL  https://raw.githubusercontent.com/pamies96-commits/tampermonkey_test/main/github-test.user.js
+// @homepageURL  https://github.com/pamies96-commits/tampermonkey_test
+// @supportURL   https://github.com/pamies96-commits/tampermonkey_test/issues
 // ==/UserScript==
 
 (function() {
